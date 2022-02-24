@@ -1,0 +1,15 @@
+Parsed Domain file ../javaff/DomainTurtlebot.pddl successfully
+Parsed Problem file ../javaff/ProblemTurtlebot.pddl successfully
+Performing search as in FF - first considering EHC with only helpful actions
+5
+4
+3
+2
+1
+(move_turtlebot tb e1 f1)
+(move_turtlebot tb f1 f2)
+(move_turtlebot tb f2 f3)
+(move_turtlebot tb f3 f4)
+(push_trash tb f4 tr e3)
+Instantiation Time =		0.062sec
+Planning Time =	0.015sec
